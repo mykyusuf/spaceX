@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.spaceX">
+    package="com.example.reddit">
    <application
         android:label="spaceX"
         android:icon="@mipmap/ic_launcher">
