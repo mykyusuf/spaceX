@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.reddit">
+    package="com.example.spaceX">
    <application
-        android:label="reddit"
+        android:label="spaceX"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
